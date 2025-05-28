@@ -41,5 +41,5 @@ npm i
 
 2. Start development server
 ```sh
-npm run dev
+npx quasar dev
 ```
